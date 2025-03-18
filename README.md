@@ -1,10 +1,6 @@
 # Meraki_Labs-Assignment-
 JEE Advanced Question Paper Extractor
 
-# JEE Advanced Question Paper Extractor
-
-Automatically extract questions from JEE Advanced PDFs and convert them to structured JSON format.
-
 ## Approach
 
 - **PDF Processing**: Extract text and images using PyMuPDF
